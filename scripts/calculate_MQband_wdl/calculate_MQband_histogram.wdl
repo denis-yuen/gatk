@@ -1,5 +1,5 @@
 version 1.0
-## Will this show, second edit
+## Will this show, third edit - only getting branches and tags
 
 workflow myWorkflow {
     input {
