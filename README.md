@@ -4,7 +4,7 @@
 
 ***Please see the [GATK website](http://www.broadinstitute.org/gatk), where you can download a precompiled executable, read documentation, ask questions, and receive technical support. For GitHub basics, see [here](https://software.broadinstitute.org/gatk/documentation/article?id=23405).***
 
-### GATK 4
+### GATK 4 of Batman
 
 This repository contains the next generation of the Genome Analysis Toolkit (GATK). The contents
 of this repository are 100% open source and released under the BSD 3-Clause license (see [LICENSE.TXT](https://github.com/broadinstitute/gatk/blob/master/LICENSE.TXT)).
