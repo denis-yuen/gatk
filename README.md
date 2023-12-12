@@ -15,6 +15,8 @@ and to enable selected tools to be run in a massively parallel way on local clus
 [Apache Spark](http://spark.apache.org/). It also contains many newly developed tools not present in earlier
 releases of the toolkit.
 
+This is a test
+
 ## Table of Contents
 * [Requirements](#requirements)
 * [Quick Start Guide](#quickstart)
